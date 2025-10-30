@@ -1,0 +1,21 @@
+body {
+    background-color: #000000;
+    text-align: center;
+    font-size: 75px;
+}
+#myBtn {
+    margin-top: 0;
+    font-size: 30px;
+    padding: 30px;
+    border-radius: 25px;
+    color: #B6B6B6;
+    background-color: #11FF03;
+}
+#kataKuri {
+    font-size: 50px;
+    margin-top: 0;
+    color: #16FF03;
+}
+#myH1 {
+    color: #03FF15;
+}
